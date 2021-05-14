@@ -1,0 +1,140 @@
+<!DOCTYPE html><html lang="pt-br"><head>
+    <meta charset="utf-8">
+    <title>Panelinha - Receitas que funcionam</title>
+    
+
+    <meta name="description" content="Site da Rita Lobo com receitas que funcionam e informações sobre como ter uma alimentação saudável de verdade, com embasamento científico.">
+
+    <meta property="og:site_name" content="Panelinha">
+    <meta property="og:url" content>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Panelinha">
+    <meta property="og:description" content="Site da Rita Lobo com receitas que funcionam e informações sobre como ter uma alimentação saudável de verdade, com embasamento científico.">
+    <meta property="og:image" content>
+    <meta name="p:domain_verify" content="246892b74d5e4daca74f0d69677774d2">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#f8f8f8">
+
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="icon" type="image/png" sizes="192x192" href="../images/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../images/android-chrome-512x512.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
+    <meta name="msapplication-TileColor" content="#da532c">
+
+    <style>
+      .loader {
+        position: fixed;
+        z-index: 99999;
+        top: 50%;
+        left: 50%;
+        margin-top: -40px;
+        margin-left: -40px;
+        border: 2px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 2px solid #1da89a;
+        width: 80px;
+        height: 80px;
+        -webkit-animation: spin 0.6s linear infinite;
+        animation: spin 0.6s linear infinite;
+      }
+
+      @-webkit-keyframes spin {
+        0% {
+          -webkit-transform: rotate(0deg);
+        }
+
+        100% {
+          -webkit-transform: rotate(360deg);
+        }
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .android-browser {
+        margin-left: 16px;
+        margin-top: 16px;
+      }
+    </style>
+
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        'script',
+        'https://www.google-analytics.com/analytics.js',
+        'ga'
+      );
+
+      ga('create', 'UA-88467424-3', 'auto');
+    </script>
+
+    <!-- <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/21629630584/testing', [300, 250], 'div-gpt-ad-1584396124850-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script> -->
+
+    <script async src="../js/gpt.js"></script>
+    <script>
+      window.googletag = window.googletag || { cmd: [] };
+
+      googletag.cmd.push(function () {
+        // Enable SRA to honor competetive exclusions and roadblocks.
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableLazyLoad();
+        googletag.pubads().setCentering(true);
+
+        // Enable services
+        googletag.enableServices();
+      });
+    </script>
+
+    <!-- 1. Configure SystemJS -->
+    <!-- <script src="system.config.js"></script> -->
+    <!-- 2. Add cookieconsent dependency-->
+  <link rel="stylesheet" href="../css/styles.651b5d9ca4aa35f711f6.css"></head>
+
+  <body>
+    <main-content ng-version="7.1.3"><router-outlet></router-outlet></main-content>
+
+    <noscript>
+      <p>JavaScript is necessary to work with this application.</p>
+    </noscript>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="../ns.html" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  <script type="text/javascript" src="../js/runtime.50344a9f24d6b6bf3ab8.js"></script><script type="text/javascript" src="../js/polyfills.8fcbd23b3a5526e7e13b.js"></script><script type="text/javascript" src="../js/scripts.c6ed775df8d47eb73319.js"></script><script type="text/javascript" src="../js/main.0d32ca5af41b3cd07586.js"></script>
+
+<script id="serverApp-state" type="application/json">{}</script></body></html>
